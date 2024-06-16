@@ -1,0 +1,14 @@
+{
+  "title": "Book Finder",
+  "searchPlaceholder": "Название книги",
+  "searchButtonLabel": "Найти",
+  "resultDataItemFirstSentence": "Первое предложение",
+  "resultDataItemPublishYears": "Года изданий",
+  "resultDataItemPagesNumber": "Кол-во страниц (медиана)",
+  "resultDataItemLanguages": "Языки перевода",
+  "resultDataItemEditions": "Издания",
+  "paginationPrevLabel": "Назад",
+  "paginationNextLabel": "Вперед",
+  "errorFetchData": "Не удалось получить данные",
+  "errorEmptyQuery": "Введите название книги."
+}

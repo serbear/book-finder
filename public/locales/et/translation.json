@@ -1,0 +1,14 @@
+{
+  "title": "Book Finder",
+  "searchPlaceholder": "Raamatu nimi",
+  "searchButtonLabel": "Otsi",
+  "resultDataItemFirstSentence": "Esimene lause",
+  "resultDataItemPublishYears": "Avaldamiste aastad",
+  "resultDataItemPagesNumber": "Lehekülgede arv (mediaan)",
+  "resultDataItemLanguages": "Keeled",
+  "resultDataItemEditions": "Avaldamised ",
+  "paginationPrevLabel": "Eelm",
+  "paginationNextLabel": "Järgm",
+  "errorFetchData": "Andmete kättesaamine ebaõnnestus",
+  "errorEmptyQuery": "Sisestage raamatu nimi."
+}

@@ -1,0 +1,14 @@
+{
+  "title": "Book Finder",
+  "searchPlaceholder": "Book name",
+  "searchButtonLabel": "Search",
+  "resultDataItemFirstSentence": "First sentence",
+  "resultDataItemPublishYears": "Publish years",
+  "resultDataItemPagesNumber": "Number of pages (median)",
+  "resultDataItemLanguages": "Languages",
+  "resultDataItemEditions": "Editions",
+  "paginationPrevLabel": "Prev",
+  "paginationNextLabel": "Next",
+  "errorFetchData": "Failed to fetch data",
+  "errorEmptyQuery": "Enter the title of the book."
+}
